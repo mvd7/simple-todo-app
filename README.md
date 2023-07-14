@@ -1,2 +1,1 @@
-# simple-todo-app
-Simple Todo React Application
+<h1>Simple Todo React Application<h1/>
