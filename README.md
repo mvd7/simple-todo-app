@@ -6,3 +6,4 @@
 <h5>"npm run dev" to start the applications.<h5/>
 
 
+![todo](https://github.com/mvd7/simple-todo-app/assets/118620242/71bf5c1d-5643-412a-8470-0ed8e9253df8)
